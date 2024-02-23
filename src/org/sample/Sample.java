@@ -8,8 +8,14 @@ public class Sample {
 
 	}
 	
+
+	private void jonescode() {
+		System.out.println("jones code");
+	}
+	
 	private void ashicode() {
 		System.out.println("ashicode");
+
 
 	}
 
