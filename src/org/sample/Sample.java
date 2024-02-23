@@ -7,5 +7,10 @@ public class Sample {
 		System.out.println("Code1");
 
 	}
+	
+	private void ashicode() {
+		System.out.println("ashicode");
+
+	}
 
 }
